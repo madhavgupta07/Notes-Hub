@@ -1,1 +1,1 @@
-# Notesbuddy
+# Notes-hub
